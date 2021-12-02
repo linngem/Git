@@ -9,5 +9,5 @@ git config --global alias.lg "log --graph --abbrev-commit --decorate --format=fo
 ## Status
 git config --global alias.s status --short
 
-## Alternativa útil de status
+## Alternative status
 git config --global alias.s status -sb
