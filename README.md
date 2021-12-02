@@ -1,5 +1,3 @@
-
-
 # My favourite alias in Git
 Some alias very useful for setting git
 
