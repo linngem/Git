@@ -10,4 +10,4 @@ git config --global alias.s status --short
 ## Alternative status
 git config --global alias.s status -sb
 
-#ESTIC FENT PROVES 
+
